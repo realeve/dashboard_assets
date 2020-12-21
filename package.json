@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "start": "live-server --port=9999 ./dashboard"
+    "start": "http-server --port=9999 ./dashboard"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "http-server": "^0.12.3"
   }
 }
