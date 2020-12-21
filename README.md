@@ -7,3 +7,9 @@
 # 大屏项目地址
 
 [https://github.com/realeve/dashboard](https://github.com/realeve/dashboard)
+
+# 用法
+
+> npm start
+
+# 资源文件默认地址： 127.0.0.1:9999
