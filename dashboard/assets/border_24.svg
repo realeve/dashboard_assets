@@ -1,12 +1,1 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg"   width="680" height="240">
-    <path fill="transparent" stroke="#6586ec" d="
-            M 5 20 L 5 10 L 12 3  L 60 3 L 68 10
-            L 660 10 L 675 25
-            L 675 235 L 20 235
-            L 5 220 L 5 20
-          "></path>
-    <path fill="transparent" stroke-width="3" stroke-linecap="round" stroke-dasharray="10, 5" stroke="#6586ec" d="M 16 9 L 61 9"></path>
-    <path fill="transparent" stroke="#2cf7fe" d="M 5 20 L 5 10 L 12 3  L 60 3 L 68 10"></path>
-    <path fill="transparent" stroke="#2cf7fe" d="M 675 210 L 675 235 L 650 235"></path>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="240"><path fill="transparent" stroke="#6586ec" d="M5 20V10l7-7h48l8 7h592l15 15v210H20L5 220V20"/><path fill="transparent" stroke-width="3" stroke-linecap="round" stroke-dasharray="10, 5" stroke="#6586ec" d="M16 9h45"/><path fill="transparent" stroke="#2cf7fe" d="M5 20V10l7-7h48l8 7M675 210v25h-25"/></svg>
